@@ -1,0 +1,25 @@
+inibody{
+   background-color: rgba(26, 3, 3, 0.897);
+text-align: center;
+padding: 300px;
+width: auto;
+}div{
+    color: white;
+    font-size: 50px;
+}button{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    display: inline-block;
+    font-size: 15px;
+    padding: 1em 2em;
+    margin-top: 101px;
+    margin-bottom: 60px;
+    -webkit-appearance: none;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    box-shadow: 0 2px 25px rgba(218, 191, 205, 0.5);
+   
+}button:hover{
+    cursor: pointer;
+}
